@@ -8,19 +8,19 @@ Nesse repositório constam projetos de Data science sobre com modelos de classif
 # Projetos
 
 **Projeto 1 - Censo**
-Aplicação de modelos de machine learning para classificação de renda de indivíduos com base nas características do censo
+Aplicação de modelos de machine learning para classificação de renda de indivíduos com base nas características do censo. Foram utilizados 11 modelos de classificação e, desses modelos, o de melhor desempenho foi o **XGBoost Classifer** que obteve uma **acurácia de 88.77% e um AUC de 0.96**;
 
 **Projeto 2 - Campanha bancária**
-Usando o modelo Gradient Boosting para classificar indivíduos de uma campanha bancária
+Usando o modelo Gradient Boosting para classificar indivíduos de uma campanha bancária, o modelo teve um desempenho superior à baseline (0.498), tendo uma **acurácia média de 81% e AUC de 0.9**;
 
 **Projeto 3 - Diabetes**
-Classificando ocorrência de diabetes
+Classificando ocorrência de diabetes. Foram usados 4 modelos de classificação, cujo o de melhor desempenho foi a **Regressão Logística**;
 
 **Projeto 4 - Competição Kaggle (Titanic)**
-Usando modelos de machine learning para prever a sobrevivência de passageiros do Titanic
+Usando modelos de machine learning para prever a sobrevivência de passageiros do Titanic. Foram usados 21 modelos de classificação, desses, o de melhor desempenho na competição da Kaggle, foi o **MPL Classifier com 80.32%** de  acurácia;
 
 **Projeto 5 - Planos de Saúde**
 Usando regressão linear para prever/calculer preços de planos de saúde a partir das características dos indivíduos
 
-**Projeto 6 - Planos de Saúde**
+**Projeto 6 - Identificação de tumores com Árvore de Decisão**
 Aplicando uma árvore de decisão para identificação de tipos de tumores
