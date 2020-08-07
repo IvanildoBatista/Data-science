@@ -22,5 +22,8 @@ Usando modelos de machine learning para prever a sobrevivência de passageiros d
 **Projeto 5 - Planos de Saúde**
 Usando regressão linear para prever/calculer preços de planos de saúde a partir das características dos indivíduos
 
-**Projeto 6 - Identificação de tumores com Árvore de Decisão**
+**Projeto 6 - AutoML para classificação**
+Aplicação da biblioteca de AutoML TPOT para classificação de preços de celulares. Com o uso dessa biblioteca foi gerado um modelo com uma acurácia de **97.4%**.
+
+**Projeto 7 - Identificação de tumores com Árvore de Decisão**
 Aplicando uma árvore de decisão para identificação de tipos de tumores
