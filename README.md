@@ -25,5 +25,8 @@ Usando regressão linear para prever/calculer preços de planos de saúde a part
 **Projeto 6 - AutoML para classificação**
 Aplicação da biblioteca de AutoML TPOT para classificação de preços de celulares. Com o uso dessa biblioteca foi gerado um modelo com uma acurácia de **97.4%**.
 
-**Projeto 7 - Identificação de tumores com Árvore de Decisão**
+**Projeto 7 - Identificação de tumores**
 Aplicando uma árvore de decisão para identificação de tipos de tumores
+
+**Projeto 8 - Aplicação de Auto Machine Learning em competição Kaggle**
+Utilização da biblioteca TPOT para modelagem de problema de regressão da competição Kaggle de previsão do preços de casas. O modelo gerado teve um **RMSE** (raiz quadrada do erro média quadrado) de 0.15742.
