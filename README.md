@@ -30,3 +30,6 @@ Aplicando uma árvore de decisão para identificação de tipos de tumores. Com 
 
 **Projeto 8 - Aplicação de Auto Machine Learning em competição Kaggle**
 Utilização da biblioteca TPOT para modelagem de problema de regressão da competição Kaggle de previsão do preços de casas. O modelo gerado teve um **RMSE** (raiz quadrada do erro média quadrado) de 0.15742.
+
+**Projeto 9 - *Clusterização* de ações**
+Usando dados de indicadores fundamentalistas extraídos do *site Fundamentus* agrupei ações de empresas listadas na Bovespa. Geramos com o modelo *Mini Batch Kmeans* 5 grupos similares.
