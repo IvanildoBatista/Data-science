@@ -1,8 +1,8 @@
 # Objetivo do prjeto
 
-Classificar se um indivíduo ganha acima de US$ 50.000
+Nesse projeto usaremos modelos de classificação para identificar quais indivíduos, de um censo americano, ganham ou não acima de US$ 50.000.
 
-# Modelos usados e resultados
+# Modelos usados
 
 1) Regressão Logística;
 2) SVM
@@ -15,7 +15,7 @@ Classificar se um indivíduo ganha acima de US$ 50.000
 9) Extra-trees
 10) Multilayer Perceptron
 
-# Tratamento dos dados
+# Etapas do projeto
 
 1) Verificação das variáveis
 2) Seleção das variáveis por meio da correlação
@@ -26,7 +26,11 @@ Classificar se um indivíduo ganha acima de US$ 50.000
 
 # Bibliotecas usadas
 
-Matplotlib, Pandas, Seaborn, Scikit-learn e imblearn
+1) Matplotlib
+2) Pandas
+3) Seaborn
+4) Scikit-learn
+5) imblearn
 
 # Dados
 arquivo adult.csv (em anexo) que pode ser obtido em https://archive.ics.uci.edu/ml/datasets/Adult
