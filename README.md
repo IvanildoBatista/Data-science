@@ -1,9 +1,6 @@
 # Data-science
-projetos de análise de dados em Python
 
-# Sobre o repositório
-
-Nesse repositório constam projetos de Data science com algoritmos de machine learning de aprendizado supervisionado (regressão e classificação) e de aprendizado não supervisionado (clustering).
+Nesse repositório constam projetos de *data science* com algoritmos de *machine learning* de aprendizado supervisionado (regressão e classificação) e de aprendizado não supervisionado (*clustering*).
 
 # Projetos
 
