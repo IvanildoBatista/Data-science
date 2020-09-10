@@ -11,7 +11,7 @@ Aplicação de modelos de machine learning para classificação de renda de indi
 Usando o modelo Gradient Boosting para classificar indivíduos de uma campanha bancária, o modelo teve um desempenho superior à baseline (0.498), tendo uma **acurácia média de 81% e AUC de 0.9**;
 
 **Projeto 3 - Diabetes**
-Classificando ocorrência de diabetes. Foram usados 4 modelos de classificação, cujo o de melhor desempenho foi a **Regressão Logística**;
+Classificando ocorrência de diabetes. Foram usados 8 modelos de classificação (sendo 6 do tipo árvore) e destes modelos o que apresentou melhor desempenho na classificação da doença de diabetes foi a Extra Tree com uma **acurácia de 85%** e uma **AUC de 88%**;
 
 **Projeto 4 - Competição Kaggle (Titanic)**
 Usando modelos de machine learning para prever a sobrevivência de passageiros do Titanic. Foram usados 21 modelos de classificação, desses, o de melhor desempenho na competição da Kaggle, foi o **MPL Classifier com 80.32%** de  acurácia;
