@@ -1,4 +1,4 @@
-# Objetivo do prjeto
+# Objetivo do projeto
 
 Nesse projeto usaremos modelos de classificação para identificar quais indivíduos, de um censo americano, ganham ou não acima de US$ 50.000.
 
