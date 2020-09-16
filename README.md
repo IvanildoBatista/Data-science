@@ -8,7 +8,7 @@ Nesse repositório constam projetos de *data science* com algoritmos de *machine
 Aplicação de modelos de machine learning para classificação de renda de indivíduos com base nas características do censo. Foram utilizados 11 modelos de classificação e, desses modelos, o de melhor desempenho foi o **XGBoost Classifer** que obteve uma **acurácia de 88.77% e um AUC de 0.96**;
 
 **Projeto 2 - Campanha bancária**
-Usando o modelo Gradient Boosting para classificar indivíduos de uma campanha bancária, o modelo teve um desempenho superior à baseline (0.498), tendo uma **acurácia média de 81% e AUC de 0.9**;
+Usando o modelo Gradient Boosting para classificar clientes de uma campanha bancária, o modelo teve um desempenho superior à baseline (50.32%), tendo uma **acurácia média de 82%.567 e AUC de 0.9**;
 
 **Projeto 3 - Diabetes**
 Classificando ocorrência de diabetes. Foram usados 8 modelos de classificação (sendo 6 do tipo árvore) e destes modelos o que apresentou melhor desempenho na classificação da doença de diabetes foi a Extra Tree com uma **acurácia de 85%** e uma **AUC de 88%**;
