@@ -1,4 +1,4 @@
-# Objetivo do projeto
+# Sobre o projeto
 
 Sempre que um país precisa saber como está a condição de vida da sua população nos municípios é necessário fazer um levantamento dos dados dessa população é a principal referência sobre a situação dessa população. Essa pesquisa sobre a totalidade da população é chamada de censo demográfico ou recenseamento da população e vai além de uma mera contagem da população, pois busca conhecer as características dos habitantes e condições sócioeconômicas (salário, tipo de emprego, número de filhos, idade, etc).
 
