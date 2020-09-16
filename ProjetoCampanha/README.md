@@ -16,15 +16,27 @@ tempo acordado e ao pagamento de uma remuneração, designada de juro. Os depós
 Nesse projeto iremos usar os dados dessa campanha de *marketing* para treinar e testar um modelo que classificará o resultado da campanha, que será um resultado binário 
 (se o cliente assinou ou não o depósito a prazo oferecido pelo banco).
 
+# Dados
+
+Os dados podem ser obtidos em https://archive.ics.uci.edu/ml/datasets/bank+marketing.
 
 # Etapas
 
 **1) Análise Exploratória dos dados**
+
 **2) Tratar dos dados**
+
 **3) Separar os dados entre treino e teste**
+
 **4) Criar do modelo de classificação**
+
 **5) Avaliação do modelo**
+
 **6) Salvar o modelo**
+
+# Resultados
+
+Utilizando o modelo *Gradient Boosting* conseguimos uma acurácia do modelo de 82.57%. O modelo conseguiu identificar 81% dos clientes que aderiram ao serviço de depósito a prazo e, além disso, teve um resultado do *AUC* de 90% (considerado um desempenho excelente).
 
 
 
