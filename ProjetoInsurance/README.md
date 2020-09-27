@@ -1,4 +1,4 @@
-# O projeto
+# Sobre o projeto
 
 O objetivo desse projeto é utilizar o modelo de regressão linear simples para modelar o valor do sinistro pago pelo clientes em contratos de planos de saúde.
 
