@@ -30,3 +30,6 @@ Utilização da biblioteca TPOT para modelagem de problema de regressão da comp
 
 **Projeto 9 - *Clusterização* de ações**
 Usando dados de indicadores fundamentalistas extraídos do *site Fundamentus* agrupei ações de empresas listadas na Bovespa. Geramos com o modelo *Mini Batch Kmeans* 5 grupos similares.
+
+**Projeto 10 - **Agrupamento de vinho**
+A partir das características de vários tipos de vinho e aplicando métodos de seleção de *clusters* (*elbow method* e *silhouette score*), utilizamos o algoritmos de clusterização *KMeans* e identificamos 4 *clusters* de vinhos.
