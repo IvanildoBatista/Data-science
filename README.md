@@ -5,7 +5,7 @@ Nesse repositório constam projetos de *data science* com algoritmos de *machine
 # Projetos
 
 **Projeto 1 - Censo**
-Aplicação de modelos de machine learning para classificação de renda de indivíduos com base nas características do censo. Foram utilizados 11 modelos de classificação e, desses modelos, o de melhor desempenho foi o **XGBoost Classifer** que obteve uma **acurácia de 88.77% e um AUC de 0.96**;
+Aplicação de modelos de machine learning para classificação de renda de indivíduos com base nas características do censo. Foram utilizados 11 modelos de classificação e, desses modelos, o de melhor desempenho foi o **XGBoost Classifier** que obteve uma **acurácia de 88.77% e um AUC de 0.96**;
 
 **Projeto 2 - Campanha bancária**
 Usando o modelo Gradient Boosting para classificar clientes de uma campanha bancária, o modelo teve um desempenho superior à baseline (50.32%), tendo uma **acurácia média de 82%.567 e AUC de 0.9**;
