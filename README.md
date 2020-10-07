@@ -17,7 +17,7 @@ Classificando ocorrência de diabetes. Foram usados 8 modelos de classificação
 Usando modelos de machine learning para prever a sobrevivência de passageiros do Titanic. Foram usados 21 modelos de classificação, desses, o de melhor desempenho na competição da Kaggle, foi o **MPL Classifier com 80.32%** de  acurácia;
 
 **Projeto 5 - Planos de Saúde**
-Usando regressão linear para prever/calculer preços de planos de saúde a partir das características dos indivíduos
+Usando regressão linear para prever/calcular o valor do sinistro pago por clientes de planos de saúde a partir das características dos mesmos. Foram aplicadas ao modelo *features* que possuiam maior correlação, além de aplicarmos *features* polinomiais ao modelo o que reduziu o erro do modelo e aumentou o poder explicativo do mesmo.
 
 **Projeto 6 - AutoML para classificação**
 Aplicação da biblioteca de AutoML TPOT para classificação de preços de celulares. Com o uso dessa biblioteca foi gerado um modelo com uma acurácia de **97.4%**.
