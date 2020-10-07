@@ -33,3 +33,12 @@ Usando dados de indicadores fundamentalistas extraídos do *site Fundamentus* ag
 
 **Projeto 10 - Agrupamento de vinho**
 A partir das características de vários tipos de vinho e aplicando métodos de seleção de *clusters* (*elbow method* e *silhouette score*), utilizamos o algoritmos de clusterização *KMeans* e identificamos 4 *clusters* de vinhos.
+
+**Projeto 11 - Identificação de regras de associação**
+Aplicando o algoritmo *Apriori* em uma base de cestas de compras foram identificadas regras e padrões de compras, como por exemplo : 
+
+1) quem compra *butter, other vegetables e whipped/sour cream* também compra *whole milk* com uma confiança de 0.723404	e um *lift* de 3.2527;
+
+2) quem compra *butter, other vegetables e yogurt* também compra *whole milk* com uma confiança de 0.73469 e um *lift* 3.3035;
+
+3) quem compra *citrus fruit, root vegetables e tropical fruit* também compra *other vegetables* com uma confiança de 0.8 e um *lift*	de 4.7819.
