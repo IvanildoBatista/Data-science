@@ -9,6 +9,8 @@ algoritmo *Apriori*, que nesse projeto, será usado para identificar relações 
 
 # Resultados
 
+Abaixo podemos ver as regras geradas pelo algoritmo e as métricas (confiança e *lift*).
+
 |          |  Itens *X*  |   Item *Y*   |    Confiança    |     *Lift*      |
 |:--------:|:-----------:|:------------:|:---------------:|:---------------:|
 |Regra 1   | *cream cheese* e *domestic eggs*  |  *whole milk*|  0.71428    |   3.2117    |
