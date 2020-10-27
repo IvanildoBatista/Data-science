@@ -11,3 +11,29 @@ mínimo.
 
 O departamento quer construir um modelo que os ajude a identificar os clientes potenciais com maior probabilidade de adquirir o empréstimo. Isso aumentará a taxa de sucesso e, ao 
 mesmo tempo, reduzirá o custo da campanha.
+
+## Etapas
+
+1) Importação das bibliotecas;
+
+2) Importação da base de dados;
+
+3) Análise dos dados;
+
+4) Análise exploratória dos dados;
+
+5) Separar dados de treino e teste;
+
+6) Criação da rede neural;
+
+7) Avaliação da rede neural;
+
+8) Testes de outras redes neurais;
+
+9) Comparação dos resultados;
+
+10) Conclusão.
+
+## Bibliotecas usadas
+
+*Pandas*, *Numpy*, *Matplotlib*, *Seaborn*, *Keras* e *Scikit-Learn*.
