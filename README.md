@@ -7,7 +7,7 @@ Nesse repositório constam projetos de *data science* com algoritmos de *machine
 **Projeto 1 - AutoML para regressão**
 Utilização da biblioteca TPOT para modelagem de problema de regressão da competição Kaggle de previsão do preços de casas. O modelo gerado teve um **RMSE** (raiz quadrada do erro média quadrado) de 0.15742.
 
-**Projeto 2 - *Clustering de ações**
+**Projeto 2 - Clustering de ações**
 Usando dados de indicadores fundamentalistas extraídos do *site Fundamentus* agrupei ações de empresas listadas na Bovespa. Geramos com o modelo *Mini Batch Kmeans* 5 grupos similares.
 
 **Projeto 3 - Competição Titanic**
