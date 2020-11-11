@@ -1,6 +1,6 @@
 # Data-science
 
-Nesse repositório constam projetos de *data science* com algoritmos de *machine learning* de aprendizado supervisionado (regressão e classificação) e de aprendizado não supervisionado (*clustering*).
+Nesse repositório constam projetos de *data science* com algoritmos de *machine learning* de aprendizado supervisionado (regressão e classificação) e de aprendizado não supervisionado (*clustering*). Também projetos de *deep learning*, onde aplico redes neurais para problemas de classificação, regressão e séries temporais.
 
 # Projetos
 
