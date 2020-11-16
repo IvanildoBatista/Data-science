@@ -57,3 +57,6 @@ Os dados podem ser obtidos nos *links* abaixo:
 
 6) Conclusão.
 
+## Resultados
+
+Com o algoritmo *K-Means* encontramos 4 grupos de vinhos.
