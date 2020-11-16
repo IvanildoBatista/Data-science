@@ -53,7 +53,7 @@ Os dados podem ser obtidos nos *links* abaixo:
 
 5) Modelagem dos dados:
 
-   5) *K-Means*
+   5.1) *K-Means*
 
 6) Conclusão.
 
