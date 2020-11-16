@@ -51,7 +51,8 @@ Os dados podem ser obtidos nos *links* abaixo:
 
 4) Redução de dimensionalidade;
 
-5) Modelagem dos dados;
+5) Modelagem dos dados:
+
    5) *K-Means*
 
 6) Conclusão.
