@@ -27,20 +27,21 @@ Os dados podem ser obtidos em https://www.kaggle.com/mirichoi0218/insurance.
 
 No primeiro modelo geramos as seguites métricas de erros:
 
-|Métrica     |  Valor  |
+|  **Métrica**     |  **Valor**  |
 |:--------:|:-----------:|
-|O erro médio absoluto   | 4243.654116653135|
-|erro médio quadrado   |35117755.73613631     |
-|erro mediano absoluto  | 2699.86836163708  |
-|erro médio absoluto  | 5926.023602394468  |
-|R-squared  |76.7%  |
+|Erro médio absoluto   | 4243.654116653135|
+|Erro médio quadrado   |35117755.73613631     |
+|Erro mediano absoluto  | 2699.86836163708  |
+|Erro médio absoluto  | 5926.023602394468  |
+|*R-squared*  |76.7%  |
 
 
-Após a inserção das nova features polinomiais todas métricas de erro caíram para :
+Após a inserção das nova *features* polinomiais todas métricas de erro caíram para e o *R-squared* melhorou significativamente, conforme abaixo:
 
-O erro médio absoluto é : 2785.592897670839
-O erro médio quadrado é : 22067396.46853433
-O erro mediano absoluto é : 1694.2992920982797
-O erro médio absoluto é : 4697.594753545088
-
-e o R-squared teve um aumento para 85.3%.
+|  **Métrica**     |  **Valor**  |
+|:--------:|:-----------:|
+|Erro médio absoluto   | 2785.592897670839|
+|Erro médio quadrado   |22067396.46853433 |
+|Erro mediano absoluto  | 1694.2992920982797 |
+|Erro médio absoluto  | 4697.594753545088  |
+|*R-squared*  |85.3%  |
